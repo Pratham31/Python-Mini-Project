@@ -20,3 +20,5 @@ You can read more about [tkinter](https://docs.python.org/3/library/tkinter.html
 Then for reading csv files - **pandas**
 for plotting the graph- **matplotlib**
 and for mathematical operations- **Numpy** 
+
+## So here are some working glimpse of my project..
