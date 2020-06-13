@@ -11,7 +11,7 @@ Command for installing tkinter as follows:
 pip install tkinter
 ```
 
-For adding images on UI i used pillow library using:
+For adding images on UI I used **pillow** library using:
 ```
 pip install pillow
 ```
