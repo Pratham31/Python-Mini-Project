@@ -32,3 +32,8 @@ and for mathematical operations- **Numpy**
 
 ![fig3](https://user-images.githubusercontent.com/56548231/84571259-bd98a100-adaf-11ea-93a9-bbdc5878167b.JPG)
 
+![fig4](https://user-images.githubusercontent.com/56548231/84571396-7bbc2a80-adb0-11ea-8017-46402ec4ef18.JPG)
+
+![fig5](https://user-images.githubusercontent.com/56548231/84571398-7e1e8480-adb0-11ea-8d6e-6e34a421c994.JPG)
+
+
