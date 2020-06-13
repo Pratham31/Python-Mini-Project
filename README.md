@@ -24,7 +24,8 @@ and for mathematical operations- **Numpy**
 ## So here are some working glimpse of my project..
 ![front](https://user-images.githubusercontent.com/56548231/84570823-6c87ad80-adad-11ea-856a-97583bb99eb3.JPG)
 
-**Output for Wheat Input**
+## Output for Wheat Input
+
 ![fig1](https://user-images.githubusercontent.com/56548231/84571253-b96c8380-adaf-11ea-8c1f-4437dad9550b.JPG)
 
 ![fig2](https://user-images.githubusercontent.com/56548231/84571257-bbcedd80-adaf-11ea-8edf-c259d48f991d.JPG)
