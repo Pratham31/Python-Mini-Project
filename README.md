@@ -22,3 +22,4 @@ for plotting the graph- **matplotlib**
 and for mathematical operations- **Numpy** 
 
 ## So here are some working glimpse of my project..
+![front](https://user-images.githubusercontent.com/56548231/84570823-6c87ad80-adad-11ea-856a-97583bb99eb3.JPG)
