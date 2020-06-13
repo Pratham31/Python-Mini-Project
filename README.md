@@ -16,3 +16,7 @@ For adding images on UI I used **pillow** library using:
 pip install pillow
 ```
 You can read more about [tkinter](https://docs.python.org/3/library/tkinter.html) and [pillow](https://pillow.readthedocs.io/en/3.0.x/handbook/tutorial.html)
+
+Then for reading csv files - **pandas**
+for plotting the graph- **matplotlib**
+and for mathematical operations- **Numpy** 
